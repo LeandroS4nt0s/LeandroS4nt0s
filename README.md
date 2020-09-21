@@ -3,10 +3,7 @@
  
  <a href="https://www.instagram.com/ProgramadorLeandroSantos/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.linkedin.com/in/leandro-santos-a23064192/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>,<br/>
  
-<img src="https://komarev.com/ghpvc/?username=ProgramadorLeandroSantos" alt="ProgramadorLeandroSantos" /> 
-![GitHub last commit](https://img.shields.io/github/last-commit/ProgramadorLeandroSantos/ProgramadorLeandroSantos)
-
-  
+<img src="https://komarev.com/ghpvc/?username=ProgramadorLeandroSantos" alt="ProgramadorLeandroSantos" /> ![GitHub last commit](https://img.shields.io/github/last-commit/ProgramadorLeandroSantos/ProgramadorLeandroSantos)
 
 
 
@@ -38,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
