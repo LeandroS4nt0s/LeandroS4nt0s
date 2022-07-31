@@ -1,7 +1,7 @@
 ![nacionalidade](https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/Brazil.gif)
  ## Hello folks, welcome to my Portfolio 👋
  ### I'm Batman and a software engineer, currently focused on stop the Joker and mobile development.
-- 🌱 I’m currently improving my skills in Typescript, React.js, React Native and Nodejs
+- 🌱 I’m currently improving my skills in Typescript, React Native,TDD and clean code.
 
 #### My stack development
 ![reactnative](https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/imgreactnative.png)  ![node](https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/imgnode.png)  ![reactnative](https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/imgreact.png)
