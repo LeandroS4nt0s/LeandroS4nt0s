@@ -16,6 +16,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorleandrosantos&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandros4nt0s&layout=compact"
     />
 </a>
