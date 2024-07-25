@@ -1,7 +1,7 @@
 ![nacionalidade](https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/Brazil.gif)  
  ## Hello folks, welcome to my Portfolio 👋
  ![](https://komarev.com/ghpvc/?username=LeandroS4nt0s&style=for-the-badge&abbreviated=true)
- ### I'm software engineer, currently focused on mobile development.
+ ### I'm Software engineer and mobile engineer specialist.
 - 🌱 I’m currently improving my skills in Typescript, React Native,TDD and clean code.
 
 #### My stack development
