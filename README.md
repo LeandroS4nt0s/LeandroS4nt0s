@@ -35,8 +35,8 @@ Sou um desenvolvedor Senior com foco em **backend com Node.js + TypeScript** e *
 - ✅ Mensageria com RabbitMQ + Worker consumers  
 - ✅ WebSocket para resposta assíncrona  
 - ✅ Cache-aside com Redis  
-- ✅ Banco separado para leitura e escrita  
-- ✅ CQRS, NLP, Design Patterns, Design system
+- ✅ Banco separado para leitura e escrita (CQRS) 
+- ✅ NLP, Design Patterns, Design system
 - ✅ Microserviços com integração segura  
 - ✅ Infraestrutura local com Docker Compose  
 
