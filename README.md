@@ -45,9 +45,6 @@ Sou um desenvolvedor Senior com foco em **backend com Node.js + TypeScript** e *
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandros4nt0s&show_icons=true&theme=radical" height="180px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandros4nt0s&layout=compact&theme=radical" height="180px"/>
 </a>
 
