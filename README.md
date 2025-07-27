@@ -12,7 +12,10 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor Senior com foco em **backend com Node.js + TypeScript** e **mobile com React Native**. Trabalho com sistemas de **alta performance**, utilizando **arquitetura de microsserviços** quando necessário, **mensageria com RabbitMQ**, **WebSocket**, **Redis**, e **PostgreSQL**. Entrego soluções robustas usando **Clean Architecture**, **TDD**, **CI/CD com Jenkins/Fastlane**, experiencia en construção de  **ambientes escaláveis** com padrões como **cache-aside** e **CQRS**. conhecimentos em arquitetura horizontal e vertical.
+Engenheiro de software sênior, especialista em desenvolvimento mobile com React Native, aplicando MVVM junto com Clean Architecture para construir aplicativos escaláveis, testáveis e prontos para produção.
+Tenho experiência em criar apps desde a concepção até a publicação nas lojas, com integração a Firebase e automação CI/CD usando Fastlane.
+No backend, desenvolvo microserviços, sistemas monolíticos e APIs robustas, aplicando arquiteturas consolidadas como Clean Architecture, CQRS e Event-Driven Architecture. Possuo sólida prática em TDD, padrões de projeto e escalabilidade vertical e horizontal.
+Atuo com comunicação assíncrona (RabbitMQ, WebSocket), cache eficiente e infraestrutura AWS (EKS, ECR), garantindo alta performance e resiliência. Sou comprometido com código limpo, testes automatizados e entrega contínua, além de liderança técnica em times ágeis.
 
 ---
 
