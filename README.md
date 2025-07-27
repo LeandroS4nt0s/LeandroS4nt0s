@@ -4,7 +4,7 @@
 
 [![Github Views](https://komarev.com/ghpvc/?username=LeandroS4nt0s&style=for-the-badge&color=blue&label=Profile+Views)](https://github.com/LeandroS4nt0s)
 
-🚀 Software Engineer | Backend & Mobile Specialist  
+🚀 Software Engineer | Mobile & Backend Specialist  
 🎓 Graduado em ADS, Pós-graduado em Engenharia de Software, Gestão de Startups e Administração de Banco de Dados  
 📍 São Gonçalo, RJ - Brasil  
 
@@ -12,10 +12,15 @@
 
 ## 🧠 Sobre mim
 
-Engenheiro de software sênior, especialista em desenvolvimento mobile com React Native, aplicando MVVM junto com Clean Architecture para construir aplicativos escaláveis, testáveis e prontos para produção.
-Tenho experiência em criar apps desde a concepção até a publicação nas lojas, com integração a Firebase e automação CI/CD usando Fastlane.
-No backend, desenvolvo microserviços, sistemas monolíticos e APIs robustas, aplicando arquiteturas consolidadas como Clean Architecture, CQRS e Event-Driven Architecture. Possuo sólida prática em TDD, padrões de projeto e escalabilidade vertical e horizontal.
-Atuo com comunicação assíncrona (RabbitMQ, WebSocket), cache eficiente e infraestrutura AWS (EKS, ECR), garantindo alta performance e resiliência. Sou comprometido com código limpo, testes automatizados e entrega contínua, além de liderança técnica em times ágeis.
+Sou **Engenheiro de Software Sênior**, especialista em desenvolvimento **mobile com React Native**, aplicando os padrões **MVVM** e **Clean Architecture** para criar aplicativos escaláveis, testáveis e prontos para produção.
+
+Tenho experiência completa no ciclo de vida de apps — da concepção à publicação nas lojas — com integração a serviços como **Firebase** e **automação CI/CD via Fastlane**.
+
+No **backend**, projeto e desenvolvo **microserviços**, **sistemas monolíticos** e **APIs robustas**, aplicando arquiteturas consolidadas como **Clean Architecture**, **CQRS** e **Event-Driven Architecture**. Trabalho com **TDD**, **padrões de projeto** e foco em **escalabilidade vertical e horizontal**.
+
+Também atuo com **comunicação assíncrona** via **RabbitMQ** e **WebSocket**, estratégias de **cache eficientes com Redis**, e infraestrutura em **AWS (EKS, ECR)**, sempre priorizando alta performance, resiliência e entrega contínua.
+
+Sou comprometido com **código limpo**, **testes automatizados** e **boas práticas de engenharia de software**, além de atuar com **liderança técnica** em times ágeis.
 
 ---
 
@@ -32,16 +37,17 @@ Atuo com comunicação assíncrona (RabbitMQ, WebSocket), cache eficiente e infr
 
 ## 🧪 Habilidades e Práticas
 
-- ✅ Clean Architecture 
-- ✅ TDD com cobertura e testes end-to-end  
+- ✅ Clean Architecture e MVVM  
+- ✅ TDD com alta cobertura e testes end-to-end  
 - ✅ CI/CD com Docker, Jenkins e Fastlane  
-- ✅ Mensageria com RabbitMQ + Worker consumers  
-- ✅ WebSocket para resposta assíncrona  
+- ✅ RabbitMQ e Workers assíncronos  
+- ✅ WebSocket para feedback em tempo real  
 - ✅ Cache-aside com Redis  
-- ✅ Banco separado para leitura e escrita (CQRS) 
-- ✅ NLP, Design Patterns, Design system
-- ✅ Microserviços com integração segura  
-- ✅ Infraestrutura local com Docker Compose  
+- ✅ Banco de leitura e escrita separados (CQRS)  
+- ✅ Padrões de projeto e arquitetura escalável  
+- ✅ Microserviços seguros e bem desacoplados  
+- ✅ Ambientes locais com Docker Compose  
+- ✅ Integração com NLP e uso de Design Systems  
 
 ---
 
