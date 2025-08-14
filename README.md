@@ -6,6 +6,7 @@
 
 🚀 Software Engineer | Mobile & Backend Specialist  
 🎓 Graduado em ADS, Pós-graduado em Engenharia de Software, Gestão de Startups e Administração de Banco de Dados  
+<img src="https://github.com/ProgramadorLeandroSantos/ProgramadorLeandroSantos/blob/master/estados-unidos-da-america.png" alt="nacionalidade" width="20" style="vertical-align: middle;" />  MSIT UoPeople  
 📍 São Gonçalo, RJ - Brasil  
 
 ---
